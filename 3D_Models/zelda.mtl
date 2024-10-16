@@ -1,0 +1,892 @@
+# Blender 4.0.2 MTL File: 'Zelad.blend'
+# www.blender.org
+
+newmtl ForestEnkei
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ForestEnkei_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ForestEnkei_Alb.png
+
+newmtl PanelFlame
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/PanelFlame_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/PanelFlame_Alb.png
+
+newmtl Torch_CM
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cubemap.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cubemap.png
+
+newmtl di_Grass_B
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Grass_B_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Grass_B_Alb.png
+
+newmtl ef_glideboard
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_glideboard02_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_glideboard02_Alb.png
+
+newmtl ef_gravityboard
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_GravityPanell_Alb2.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_GravityPanell_Alb2.png
+
+newmtl ef_sea
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_seawater_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ef_seawater_Alb.png
+
+newmtl hy_Block_Moss
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Moss_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Moss_Alb.png
+
+newmtl hy_Cannon
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Cannon_Mini_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Cannon_Mini_Alb.png
+
+newmtl hy_CasIn_Wall0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_0_Alb.png
+
+newmtl hy_CasIn_Wall1
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_1_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_1_Alb.png
+
+newmtl hy_CasIn_Wall1_Ceiling
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_1_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_1_Alb.png
+
+newmtl hy_CasIn_Wall2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_2_Alb.png
+
+newmtl hy_CasIn_Wall3
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_3_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_3_Alb.png
+
+newmtl hy_CasIn_Window
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Emm.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Emm.png
+
+newmtl hy_CasIn_Window_CM
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Alb.png
+
+newmtl hy_CasInside_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+
+newmtl hy_CasInside_0_Area0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+
+newmtl hy_CasInside_Emi_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+
+newmtl hy_CasInside_Emi_CM
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInside_0_Alb.png
+
+newmtl hy_CasOut_Fence
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasFence_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasFence_0_Alb.png
+
+newmtl hy_CasOut_RoyalMark
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_RoyalMark_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_RoyalMark_Alb.png
+
+newmtl hy_CasOut_Window
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasWindow_0_Alb.png
+
+newmtl hy_CasOut_deco2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_Alb.png
+
+newmtl hy_CasOut_deco2_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_2_Alb.png
+
+newmtl hy_CasOut_deco2_Area2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_brickfloor_01_Alb.png
+
+newmtl hy_CasOut_roof
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castleroof_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castleroof_Alb.png
+
+newmtl hy_CasOut_roof2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castleroof_2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castleroof_2_Alb.png
+
+newmtl hy_CasOut_wall0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CasInWall_0_Alb.png
+
+newmtl hy_CasOut_wall1
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall01_Alb.png
+
+newmtl hy_CasOut_wall1_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall01_2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall01_2_Alb.png
+
+newmtl hy_CasOut_wall3
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall03_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall03_Alb.png
+
+newmtl hy_CasOut_wall3_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall03_2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_castlewall03_2_Alb.png
+
+newmtl hy_DepthShadow_TrA_Leaf
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Tree_Leaf_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Tree_Leaf_Alb.png
+
+newmtl hy_DethMountain
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/wiigv_ry_mountain_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/wiigv_ry_mountain_01_Alb.png
+
+newmtl hy_DushJump
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_DushJump_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_DushJump_Alb.png
+
+newmtl hy_FakeLeaf
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FakeLeaf_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FakeLeaf_Alb.png
+
+newmtl hy_FakeLeaf1
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FakeLeaf2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FakeLeaf2_Alb.png
+
+newmtl hy_FlagRope
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FlagRope1_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/FlagRope1_Alb.png
+
+newmtl hy_Flowers
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/gcyc_Flowers_t01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/gcyc_Flowers_t01_Alb.png
+
+newmtl hy_Iron
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Iron_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Iron_Alb.png
+
+newmtl hy_IronObj
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_IronOBJ_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_IronOBJ_Alb.png
+
+newmtl hy_IronObj_Area2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_IronOBJ_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_IronOBJ_Alb.png
+
+newmtl hy_JumpPanel_Iron
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_ironjump_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_ironjump_01_Alb.png
+
+newmtl hy_JumpPanel_Wood
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Alb.png
+
+newmtl hy_Kaidan
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Gwp_OutSide_kaidanIshi00_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Gwp_OutSide_kaidanIshi00_Alb.png
+
+newmtl hy_StartGate
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_StartGate_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_StartGate_Alb.png
+
+newmtl hy_StartObj
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_StartObj_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_StartObj_Alb.png
+
+newmtl hy_Startline
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Hy_Startline_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Hy_Startline_Alb.png
+
+newmtl hy_Torch
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Torch_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Torch_Alb.png
+
+newmtl hy_Torch_Area2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Torch_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_Torch_Alb.png
+
+newmtl hy_TownObj
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleTownObj_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleTownObj_Alb.png
+
+newmtl hy_TreeA_Leaf
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Tree_Leaf_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Tree_Leaf_Alb.png
+
+newmtl hy_TreeB_Base
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_TreeLeaf_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_TreeLeaf_Alb.png
+
+newmtl hy_blackiron
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_blackiron_out_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_blackiron_out_Alb.png
+
+newmtl hy_block0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kc_wall01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kc_wall01_Alb.png
+
+newmtl hy_block0_Area2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kc_wall01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kc_wall01_Alb.png
+
+newmtl hy_block1
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ct_brickRed01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ct_brickRed01_Alb.png
+
+newmtl hy_carpet
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+
+newmtl hy_carpet_Area1
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+
+newmtl hy_carpet_Area1_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ukc_carpet_01_Alb.png
+
+newmtl hy_caveA01
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_caveA01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_caveA01_Alb.png
+
+newmtl hy_cliffB01
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_cliffB01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_cliffB01_Alb.png
+
+newmtl hy_cliffB01_Edge
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_cliffB01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/uoc_hm_cliffB01_Alb.png
+
+newmtl hy_cmn_wood
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood_Alb.png
+
+newmtl hy_cmn_wood2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Spm.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Spm.png
+
+newmtl hy_cmn_wood2_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood2_Alb.png
+
+newmtl hy_cmn_wood3
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood3_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_cmn_wood3_Alb.png
+
+newmtl hy_grass_OutSide
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_grass_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_grass_Alb.png
+
+newmtl hy_grass_nuki
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_grass_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_grass_Alb.png
+
+newmtl hy_house
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_House0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_House0_Alb.png
+
+newmtl hy_house_Wall
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_House0_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_House0_Alb.png
+
+newmtl hy_houseroof
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_houseroof_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_houseroof_Alb.png
+
+newmtl hy_houseroof2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_houseroof_Alb2.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_houseroof_Alb2.png
+
+newmtl hy_hwood03
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ct_hwood03_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ct_hwood03_Alb.png
+
+newmtl hy_kusa01
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kusa_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/kusa_01_Alb.png
+
+newmtl hy_kusa02
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/PlantA_01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/PlantA_01_Alb.png
+
+newmtl hy_pole
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Moss_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_Moss_Alb.png
+
+newmtl hy_road
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_road_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sfcdp3_road_Alb.png
+
+newmtl hy_road2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/GWP_Road01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/GWP_Road01_Alb.png
+
+newmtl hy_road3
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Gwp_OutSide_ConcreteRoad00_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/Gwp_OutSide_ConcreteRoad00_Alb.png
+
+newmtl hy_road4
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+
+newmtl hy_road4_Area2off
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+
+newmtl hy_road4_InCastle
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+
+newmtl hy_road4_InCastle_CM
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_CastleRoad_Alb.png
+
+newmtl hy_roadC
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_DossunFace_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/di_DossunFace_Alb.png
+
+newmtl hy_straw
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_straw_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/hy_straw_Alb.png
+
+newmtl hy_tuta01
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ExLeafB_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/ExLeafB_Alb.png
+
+newmtl mm_moutain01
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sn_moutain01_Alb.png
+map_d C:/Users/matsm/Documents/3D_Models/Mario_Kart/WiiU/Wii U - Mario Kart 8 - Hyrule Circuit/sn_moutain01_Alb.png
